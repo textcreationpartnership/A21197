@@ -1,0 +1,493 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The churches glory shewed forth in a sermon preached at the Haghe before Their Majesties the King &amp; Queene [brace] of Bohemia / by J.E. ...</title>
+            <author>Elborough, Jeremiah.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21197</idno>
+            <idno type="STC">STC 7550.5</idno>
+            <idno type="STC">ESTC S120080</idno>
+            <idno type="EEBO-CITATION">22914664</idno>
+            <idno type="OCLC">ocm 22914664</idno>
+            <idno type="VID">25871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25871)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 591:11 or 1791:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The churches glory shewed forth in a sermon preached at the Haghe before Their Majesties the King &amp; Queene [brace] of Bohemia / by J.E. ...</title>
+                  <author>Elborough, Jeremiah.</author>
+               </titleStmt>
+               <extent>[6], 50 [i.e. 49] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[The Hague? :</pubPlace>
+                  <date>1620?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by STC (2nd ed.).</note>
+                  <note>Dedication signed: Jer. El-borough.</note>
+                  <note>Signatures: A-C⁸ D⁴.</note>
+                  <note>Title within ornamental border.</note>
+                  <note>Error in paging: p. 33 skipped in the numbering.</note>
+                  <note>Item at reel 591:11 identified as STC 7551a.</note>
+                  <note>Reproductions of originals in the Folger Shakespeare Library and Union Theological Seminary Library (New York, N.Y.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XLV, 13 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25871:1"/>
+            <pb facs="tcp:25871:1"/>
+            <p>THE CHURCHES GLORY <hi>SHEWED FORTH IN A SERMON.</hi> Preached at the HAGHE. <hi>Before their Majeſties</hi> THE KING &amp; QUEENE. of Bohemia.</p>
+            <p>
+               <hi>By J. E. Preacher to the Company of Engliſh Merchant Adventurers in Hamburgh.</hi>
+            </p>
+            <q>Eccleſiae non jungitur qui ab Evangelio ſeparatur. <bibl>Cypr. de lapſis.</bibl>
+            </q>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:25871:2" rendition="simple:additions"/>
+            <pb facs="tcp:25871:2" rendition="simple:additions"/>
+            <head>TO HER MAIES<g ref="char:EOLhyphen"/>TIE THE QUEENE OF BOHEMIA. &amp;c.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Any commend the Churches glory, but few imitate it, be<g ref="char:EOLhyphen"/>cauſe they never truly knewe it; ſo<g ref="char:EOLhyphen"/>mewhat they have read, &amp; heard of it but never truly ſaw it, for with carnall eyes they behold her ſpiri<g ref="char:EOLhyphen"/>tuall beauty &amp; cannot diſcerne it. An ignorant perſon looking on the picture of <hi>Helena</hi> drawne by <hi>Zeuxes,</hi> ſayd, that ſhe ſeemed not to him to be ſo fayre.<hi>Nico<g ref="char:EOLhyphen"/>machus,</hi>
+               <pb facs="tcp:25871:3"/> the Pamter anſwered him, Take my eyes &amp; you will <note place="margin">Sume meos oculos &amp; De am judica<g ref="char:EOLhyphen"/>bis.</note> thinke her a Goddeſſe. The beſt way to judge of the Churches glory is to get it, &amp; within our hearts to feele it, <note n="a" place="margin">Rev. 2. 17.</note> 
+               <hi>none knowes the new Name that Chriſt writes on his, but he that receives it</hi> VVhoſoever hath once felt within him, the excellent &amp; unſpeake able benefit of the pardon of his ſinnes, peace of conſcience, joy in the holy Ghoſt, power of fayth, quiet fruit of patience, comfort of obedience yea the ſweetneſſe of the very tea<g ref="char:EOLhyphen"/>res of repentante, with other parts of the Churches ornaments, will ſay with Peter when he ſaw but part of Chriſts glory in his transfigura<g ref="char:EOLhyphen"/>tion <note n="b" place="margin">Mat. 17. 4.</note> 
+               <hi>It is good being heere</hi> &amp;
+<pb facs="tcp:25871:3"/> with the <note n="c" place="margin">Rev. 12. 1.</note> VVoman in the Revela<g ref="char:EOLhyphen"/>tion, <hi>cloathed with the Sun,</hi> viz Chriſts righteouſneſſe, <hi>tread the Moone,</hi> viz all earthly change<g ref="char:EOLunhyphen"/>able gloryes <hi>under feet.</hi>
+            </p>
+            <p>And though your Majeſtie knowes more of the Churches glory by your invvard feeling of it, then I can diſcover, yet in all dutifull acknowledgment of your Majeſties favours &amp; gracious countenance of my Miniſterie, with an hearty deſire to doe your Majeſtie any good ſervice, vvere it but to bring Pin<g ref="char:EOLhyphen"/>nes to the Temple, in the leaſt to further your ſpirituall dreſsing &amp; glory, I am bold to preſent to your Majeſties view this ſmall treatiſe of the Churches glory. And what you vvere pleaſed once to heare (being called by your command to
+<pb facs="tcp:25871:4"/> preach) vouchafe I humbly deſire now to reade. Being confident of your Majeſties gracious acceptance hereof for the matter ſake, (though not ſet forth vvith ſhew of vvor<g ref="char:EOLhyphen"/>des, vvhich the truth needes not, the Churches glory being ſufficient of it ſelfe to commend it, playne vvorke being beſt &amp; moſt in uſe, &amp; curious vvrought plate not re<g ref="char:EOLhyphen"/>garded,) I commend your Majeſtie to God &amp; to the vvord of his <note n="d" place="margin">Act. 20. 32.</note> grace vvhich is able to build you up &amp; to give you an inheritance a<g ref="char:EOLhyphen"/>mong all them that are ſanctified, <note n="e" place="margin">1. Pet. 1. 4.</note> an inheritance incorruptible, &amp; undefiled, that fadeth not away re<g ref="char:EOLhyphen"/>ſerved in heaven for you.</p>
+            <closer>
+               <signed>Your Majeſties moſt obliged Chaplaine. JER: EL-BOROUGH.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:25871:4"/>
+            <head>THE CHURCHES GLORY.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Pſal.</hi> 45. <hi>v.</hi> 13.</bibl>
+               <q>The kings daughter is all glorious within.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is uncertaine, vvho made this Pſalme, but certai<g ref="char:EOLhyphen"/>ne that he vvas a Prophet &amp; holy man: for S. Peter <note n="a" place="margin">2. Pet. 1. 20</note> tells us <hi>that no prophecy of the ſcriptu<g ref="char:EOLunhyphen"/>re is of any private interpretaetion, but holy men of God ſpake as they were in<g ref="char:EOLhyphen"/>ſpired by the holy Ghoſt.</hi>
+            </p>
+            <p>It is alſo certaine, that it vvas made concerning Kinge Solo<g ref="char:EOLhyphen"/>mon
+<pb n="2" facs="tcp:25871:5"/> &amp; his Queene, to ſet forth the glory of his kingdome.</p>
+            <p>But moſt certaine, that the authour looked higher then Solo<g ref="char:EOLhyphen"/>mon, &amp; his Queene, &amp; chiefly in<g ref="char:EOLhyphen"/>tended by them, &amp; their out<g ref="char:EOLhyphen"/>vvard great vvorldly glory, to expreſſe the invvard &amp; ſpirituall farre greater glory of Chriſt &amp; his Church; for neither Solomon or his Queene in all their glory vve<g ref="char:EOLhyphen"/>re clothed like one of theſe. And that this vvas the Prophets ſcope appeares by ſome ſayings in this Pſalme vvhich cannot be attribut<g ref="char:EOLunhyphen"/>ed to Solomon but to Chriſt: as <note n="b" place="margin">v. 6.</note> 
+               <hi>Thy throne O God is for ever &amp; ever</hi> for though Kinges in the vvord of God are called <note n="c" place="margin">Pſa. 82. 6. 2. Theſ 2, 4.</note> 
+               <hi>Gods</hi> (in reſpect of their office, not their nature <hi>for</hi> 
+               <note n="d" place="margin">Pſa. 82. 7.</note> 
+               <hi>they ſhall dye like men)</hi> yet this vvord heere, God, is ſpoken of the ſonne of God, as appeares plainly, Hebr. 1. 8. <hi>Unto the ſonne</hi>
+               <pb n="3" facs="tcp:25871:5"/> 
+               <hi>he ſayth, Thy throne O God is for ever &amp; ever</hi> as alſo Solomons throne vvas not for ever but Chriſts.</p>
+            <p>Moreover it is <note n="e" place="margin">v. 16.</note> ſayd <hi>In ſtead of thy fathers ſhalbe thy children whom thou mayſt make princes in all the earth:</hi> but this is not true of Solo<g ref="char:EOLunhyphen"/>mon, for Rehoboam his heire vvas ſo farre from enlarging his dominion on earth, that he loſt the greateſt part of his fathers kingdome, neither reade vvee that any of the reſt of his children ever attayned to that Kingly glo<g ref="char:EOLhyphen"/>ry their father had: but this is true of Chriſt &amp; his Church for in ſtead of the fathers, <hi>Abraham Iſaack &amp; Jacob &amp;c.</hi> they had chil<g ref="char:EOLunhyphen"/>dren <hi>Peter, John, Paul,</hi> &amp; other Apoſtles, vvho ſpiritually over<g ref="char:EOLhyphen"/>came al nations by the preaching of the Goſpell; ſo vvhereas Chriſt ſet up his throne only in Judaea in his life time as Kinge of the Jevves
+<pb n="4" facs="tcp:25871:6"/> theſe children enlarged his do<g ref="char:EOLhyphen"/>minions to the uttermoſt parts of the earth. And ſince the <note n="f" place="margin">Mat. 12. 42.</note> Queene of the South came from the uttermoſt parts of the earth to behold the glory of Kinge So<g ref="char:EOLhyphen"/>lomon, let us alſo come vvith our beſt attentions to behold the glo<g ref="char:EOLhyphen"/>ry of the King of Solomon, &amp; his Queene, for behold greater then Solomon or his Queene are heere.</p>
+            <p>The Parts of this Pſalme are tvvo.</p>
+            <list>
+               <item>The 1. concerning Solomon.
+<list>
+                     <item>this is the literal ſen<g ref="char:EOLhyphen"/>ſe.</item>
+                  </list>
+               </item>
+               <item>The 2. concerning his Zueene.</item>
+            </list>
+            <list>
+               <item>The 1. concerning Chriſt.
+<list>
+                     <item>this is the myſtical ſenſe.</item>
+                  </list>
+               </item>
+               <item>The 2. concerning his Church.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Solomon is comended for is <note n="g" place="margin">v. 2.</note> beauty. <hi>fairer then the chil<g ref="char:EOLhyphen"/>dren of men.</hi> for his <note n="h" place="margin">ibid.</note> eloquence,
+<pb n="5" facs="tcp:25871:6"/> for his <note n="i" place="margin">v. 3.</note> povver.</p>
+            <list>
+               <item>for his vertues of
+<list>
+                     <item>truth,</item>
+                     <item>meekeneſſe, <note n="k" place="margin">v. 4.</note>
+                     </item>
+                     <item>righteouſneſſe.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <item>For his <note n="l" place="margin">v. 8.</note> riches in
+<list>
+                     <item>his coſtly gar<g ref="char:EOLhyphen"/>ments.</item>
+                     <item>his ivory pa<g ref="char:EOLhyphen"/>laces.</item>
+                  </list>
+               </item>
+            </list>
+            <p>All vvhich vvere but types of the farre exceeding ſpirituall be<g ref="char:EOLhyphen"/>auty, eloquence, povver, graces, &amp; riches. of Chriſt. For <note n="m" place="margin">Cant. 5. 10</note> 
+               <hi>he is white &amp; ruddie the chiefeſt among ten thou<g ref="char:EOLhyphen"/>ſand</hi> 
+               <note n="n" place="margin">Ioh. 7. 46.</note> 
+               <hi>never man ſpake like him;</hi> 
+               <note n="o" place="margin">Mat. 28. 18</note> 
+               <hi>all Power in heaven &amp; earth is given him:</hi> 
+               <note n="p" place="margin">Ioh. 14 6.</note> 
+               <hi>hee is the way &amp; the truth: wee must Learne of him for he is</hi> 
+               <note n="q" place="margin">Matt. 11. 29</note> 
+               <hi>meeke &amp; lowly: his name is the Lord our</hi> 
+               <note n="r" place="margin">Ier. 23. 6.</note> 
+               <hi>righteouſneſſe; hee is perfumed with</hi> 
+               <note n="ſ" place="margin">Cant. 3. 6.</note> 
+               <hi>myrrhe &amp; frankinſence &amp; all powders of the merchants: heaven is</hi> 
+               <note n="t" place="margin">Iſ. 66. 1.</note> 
+               <hi>his throne &amp; the earth his footſtoole.</hi>
+            </p>
+            <p>Happie vvoman may ſome thincke that hath ſuch a husband as Solomon more happie ſoule that hath Chriſt.</p>
+            <list>
+               <pb n="6" facs="tcp:25871:7"/>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Solomons Queene is
+<list>
+                     <item>1. inſtructed</item>
+                     <item>2 come<g ref="char:cmbAbbrStroke">̄</g>ded </item>
+                  </list>
+               </item>
+            </list>
+            <p>Inſtructed, <note n="u" place="margin">v. 10.</note> 
+               <hi>to forget her owne peo<g ref="char:EOLhyphen"/>ple &amp; Kinge Pharaoh her fathers hou<g ref="char:EOLhyphen"/>ſe</hi> &amp; the reaſons hereof are three. 1. for then the <note n="w" place="margin">v. 11.</note> Kinge her hus<g ref="char:EOLhyphen"/>band <hi>will deſire her beauty</hi> &amp; love her.</p>
+            <p>2. Hee is <hi>her Lord &amp; ſhee muſt worſhip him,</hi> in reſpecting him more then her father, &amp; be ruled by him.</p>
+            <p>3. though ſhe leaves the glory of Kinge Pharaohs court, yet ſhee enjoyes the glory of Kinge Solomons, &amp; ſhall live in as great honour &amp; magnificent pompe as ever ſhe formerly did, for <hi>the daughter</hi> 
+               <note n="x" place="margin">v. 12.</note> 
+               <hi>of Tyre &amp; the rich among the people ſhall intreat her favour.</hi> So the Church of the Gentiles (of vvhich this Gentile Queene might be a Type) muſt forſake the idolatry, &amp; ſuperſtitious va<g ref="char:EOLhyphen"/>nities in vvhich ſhee vvas bro<g ref="char:EOLhyphen"/>ught
+<pb n="7" facs="tcp:25871:7"/> up, &amp; embrace the true fayth of the Goſpel, &amp; the right manner of vvorſhipping God, as her Lord &amp; huſband Jeſus Chriſt vvould have her doe, vvho vvill then delight in her, &amp; her condition ſhalbe more honou<g ref="char:EOLunhyphen"/>rable then ever before, for <note n="y" place="margin">Iſa. 49. 23.</note> 
+               <hi>Kings ſhalbe her nurſing fathers, &amp; Quee<g ref="char:EOLhyphen"/>nes her nurſing mothers, they ſhal bowe downe to her with their faces, toward the earth.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Commended, in the vvords of the text. Her commendation is layed out. 1. by her relation, <hi>the Kinges daughter.</hi> 2. by her qualification, <hi>ſhee is glorious.</hi> 3. by the amplification of her glory Firſt in reſpect of the univerſali<g ref="char:EOLhyphen"/>ty, <hi>all</hi> glorious.</p>
+            <p>Secondly in reſpect of the ſin<g ref="char:EOLhyphen"/>cerity, <hi>within.</hi>
+            </p>
+            <p>The Kinges daughter is all glo<g ref="char:EOLhyphen"/>rious vvithin.</p>
+            <p>By the Kinge is literally meant
+<pb n="8" facs="tcp:25871:8"/> Pharaoh Kinge of Egypt, by his daughter, Solomons Queene, for he <note n="z" place="margin">1. Kings 3. 1.</note> married Pharaohs daugh<g ref="char:EOLhyphen"/>ter.</p>
+            <p>But myſtically by the Kinge, is meant God, by his daughter, the Church, the ſpouſe of Chriſt: vvhich ſenſe being chiefly inten<g ref="char:EOLhyphen"/>ded (as J have formerly ſhevved) by the authour of this Pſalme, J vvill alſo follovv, in the handling of theſe vvordes.</p>
+            <div type="part">
+               <head>Tbe King.</head>
+               <p>That God is a King I thinke none vvill denye it, except Athieſts that denie God though too many in their rebellious dee<g ref="char:EOLhyphen"/>des ſeeme not to acknovvledge it. King David ſayes he is <hi>a</hi> 
+                  <note n="a" place="margin">Pſa. 95. 3.</note> 
+                  <hi>great God &amp; a great King above all Gods.</hi> not as other Kings of particular countries, but a great King over <note n="b" place="margin">Pſal. 47. 2.</note> 
+                  <hi>all the earth.</hi> King Nebuchadnez<g ref="char:EOLhyphen"/>zar confeſſes him of a truth to be
+<pb n="9" facs="tcp:25871:8"/> 
+                  <hi>a</hi> 
+                  <note n="c" place="margin">Dan. 2. 47.</note> 
+                  <hi>Lord of Kings</hi> yea <hi>the King of hea<g ref="char:EOLhyphen"/>ven.</hi> other Kings are borne, or <note n="d" place="margin">4. 37.</note> made Kings, but hee is an <note n="e" place="margin">1. Tim. 1. 10.</note> 
+                  <hi>aeternal King,</hi> others are ſubordinate, for by him <note n="f" place="margin">Prov. 8. 15.</note> Kings reigne but he is a ſupreame &amp; abſolute King, others mortal, but he <hi>an</hi> 
+                  <note n="g" place="margin">1. Tim. 1.</note> 
+                  <hi>immortall &amp;</hi> 
+                  <note n="h" place="margin">Ier. 10. 10.</note> 
+                  <hi>everlaſting King.</hi> He hath made all thinges in heaven, and earth, he governes all, &amp; vvhen he pleaſe he can deſtroy all, therefore ye is Kinge of all.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vſe </seg>1</label> The conſideration vvhereof ſerves for an inſtruction to Kings on earth to feare this King of hea<g ref="char:EOLhyphen"/>ven &amp; earth, vvho hath made them Kings on earth, vvho can make them Kings in heaven, vvho can make them no Kings on earth for thoſe <note n="i" place="margin">Dan. 4. 37</note> 
+                  <hi>that walke in pride hee is able to abaſe</hi> even him vvho vvas a <note n="k" place="margin">2. 37.</note> King of Kings, Nebuchadnez<g ref="char:EOLhyphen"/>zar, vvho vvas driven from men among the beaſts of the field to <note n="l" place="margin">4. 32.</note>
+                  <pb n="10" facs="tcp:25871:9"/> eate graſſe as oxen till <hi>he knew that the moſt high ruleth in the kingdomes of men; therefor</hi> 
+                  <note n="m" place="margin">Ier. 10. 7.</note> 
+                  <hi>who would not feare thee O King of nations. Bee wiſe then O the Kings be inſtructed ye that are judges of the earth</hi> (is the coun<g ref="char:EOLhyphen"/>ſell of a <note n="n" place="margin">Pſ. 2. 10. 11.</note> King) &amp; this is that they ſhould learne to <hi>ſerve the Lord in feare, for the</hi> 
+                  <note n="o" place="margin">Pro. 9. 10.</note> 
+                  <hi>feare of the Lord is the beginning of wiſdome.</hi>
+               </p>
+               <p>It is good counſell that S Ber<g ref="char:EOLhyphen"/>nard gave the <note n="p" place="margin">Lewis 7.</note> French King, that he ſhould remember that God his Creatour gave him that great &amp; honourable charge, not to go<g ref="char:EOLhyphen"/>verne after his ovvne pleaſure, but for Gods honour, to vvhom he vvas to give an account vvhen<g ref="char:EOLhyphen"/>ſoever God ſhould demaund it. <note place="margin">L' hiſtorie de France, par Seigneur du Haillan. p. 692.</note> S. Paul <note n="q" place="margin">Col, 4. 1.</note> counſells maſters to give their ſervants vvhat is juſt, &amp; oe<g ref="char:EOLhyphen"/>qual, <hi>becauſe they alſo have a maſter in heaven,</hi> &amp; for the ſame reaſon ſhould Kings (vvhoſe name in
+<pb n="11" facs="tcp:25871:9"/> Latin <note n="r" place="margin">Reges a re<g ref="char:EOLhyphen"/>cte agendo vocati ideoq recte facien<g ref="char:EOLhyphen"/>do regis no<g ref="char:EOLhyphen"/>men tuetur, peccando a<g ref="char:EOLhyphen"/>mittit lib. de ſum. bon:</note> Iſidore thincks to be from wel doing) governe their ſubjects with juſtice &amp; equity for they al<g ref="char:EOLhyphen"/>ſo have a King in heaven.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vſe </seg>2</label> Seco<g ref="char:cmbAbbrStroke">̄</g>dly, this ſhoud teach us all to feare &amp; obey this great King: <hi>the</hi> 
+                  <note n="ſ" place="margin">Pro. 16. 14.</note> 
+                  <hi>wrath of a King is as meſſengers of death</hi> how much more is y<hi rend="sup">e</hi> wrath of the King of Kings; We feare the<g ref="char:cmbAbbrStroke">̄</g> that can kill the bodye, much more is he to be <note n="t" place="margin">Mat. 10. 28.</note> 
+                  <hi>feared that can deſtroy body &amp; ſoule in hell</hi> wee feare Kings on earth becauſe of their power, much more ſhould wee feare him from whom Kings ha<g ref="char:EOLhyphen"/>ve <note n="u" place="margin">Rom. 13. 1.</note> all their power, <hi>for the powers are of God</hi> S. <note n="w" place="margin">1. Pet. 2. 17</note> Peter bids us <hi>feare God &amp; honour the King</hi> Some ho<g ref="char:EOLhyphen"/>nour the King for their owne ho<g ref="char:EOLhyphen"/>nours &amp; preferments, but the true ground of honour to Kings on earth is the feare of the King of heaven, who hath ſo com<g ref="char:EOLhyphen"/>maunded. And of ſuch as diſho<g ref="char:EOLhyphen"/>nour Kings, much more of ſuch
+<pb n="12" facs="tcp:25871:10"/> as ſeeke to depoſe &amp; murther the<g ref="char:cmbAbbrStroke">̄</g> we may truly ſay there is no feare of God before their eyes, neyther are they Peters ſucceſſours: their not honouring the King procee<g ref="char:EOLunhyphen"/>des from their not fearing God, &amp; ſo being faithleſſe to one King, they will never be faithfull to the other. It is then wiſdome in Kings not to commaund their ſubjects againſt God, yea to command them to ſerve, &amp; feare God &amp; kee<g ref="char:EOLhyphen"/>pe his Lawes, forthen they will honour the King &amp; keepe his La<g ref="char:EOLhyphen"/>wes: but if Kings in their com<g ref="char:EOLhyphen"/>mands obey not God as good ſub<g ref="char:EOLhyphen"/>jects, they teach their ſubjects to diſobey them, for it is better to obey God then man, &amp; the com<g ref="char:EOLhyphen"/>mand is to <note n="x" place="margin">Pro. 24. 21 Aquo ſecun dus, poſt quem primꝰ Tert. apol. c. 30.</note> 
+                  <hi>feare God &amp; the King,</hi> firſt God &amp; then the King; God is called <hi>the King</hi> 
+                  <note n="y" place="margin">Ier. 48. 15.</note> 
+                  <hi>the Lord of hoaſts</hi> becauſe all the creatures are his ſubjects and ſouldiers, he ſayeth
+<pb n="13" facs="tcp:25871:10"/> to one goe &amp; he goeth, to another doe this &amp; he doeth it, to the ſun<g ref="char:EOLhyphen"/>ne ſtand ſtil, or goe back, to the ſea be dry land, to the earth open, &amp; they doe ſo, <note n="z" place="margin">Pſa. 148. 8.</note> the <hi>fire, hayle, ſnovv &amp; vapours fulfill his vvord</hi> &amp; ſince all the creatures as good ſubjects yeild obedience to their Kinge, it is a ſhame that men ſhould fay<g ref="char:EOLhyphen"/>le in their duty eſpecially ſuch who in their baptiſme have taken the vowe of allegiance: and ſince not only other creatures but even Kings on earth obey this King of heaven &amp; earth, their example ſhould moove other men to this duty to feare God their King; who prefers his Courtiers to be Kings in heaven, but all ſuch as will not have him to reigne over them though <note n="a" place="margin">Rev. 6. 15.</note> 
+                  <hi>Kings of the earth &amp; great men, rich men, chiefe captaines &amp; mighty men ſhall hide themſelves in dennes &amp; in the rocks of the moun<g ref="char:EOLhyphen"/>taines,
+<pb n="14" facs="tcp:25871:11"/> &amp; ſay to the rocks &amp; the moun<g ref="char:EOLunhyphen"/>taines Fall on us &amp; hide us from the face of him that ſitteth on the throne.</hi> King Alexander had two friends, <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> one loved him as Alexander, the other loved him as king, Let us doe both, love him who is our God &amp; ſo feare him for <note n="b" place="margin">Hoſ. 3. 5.</note> his good<g ref="char:EOLunhyphen"/>neſſe, love him who is our king &amp; ſo feare him for his pover.</p>
+            </div>
+            <div type="part">
+               <head>Daughter.</head>
+               <p>SEcondly by the Kings daugh<g ref="char:EOLhyphen"/>ter <note place="margin">Filiae Regis, animae fide<g ref="char:EOLhyphen"/>lis. Hier. in Loc.</note> is meant the Church, or the faithfull. All creatures are this kings ſubjects but the faithfull have a neerer relation to him, in being his daughters &amp; ſon<g ref="char:EOLhyphen"/>nes, for <note n="c" place="margin">2. Cor. 6. 18</note> 
+                  <hi>I vvilbe a father unto you &amp; ye ſhalbe my ſonnes &amp; daughters ſayth the Lord almighty:</hi> ſo that it may be alike truly ſayd that faith<g ref="char:EOLhyphen"/>full men are his daughters &amp; faith<g ref="char:EOLhyphen"/>full women his ſonnes, for there
+<pb n="15" facs="tcp:25871:11"/> is no reſpect of perſons with God, there is neither Jew or Greeke King or ſubject, rich or poore, <note n="d" place="margin">Gal. 3. 28.</note> male or female, <hi>but are all one in Chriſt Jeſus. VVee knowe not Chriſt any more after the fleſh ſayth</hi> 
+                  <note n="e" place="margin">1. Cor. 5. 16.</note> 
+                  <hi>S. Paul,</hi> neyther doth Chriſt knowe us after the fleſh, <hi>for</hi> 
+                  <note n="f" place="margin">Mat. 12. 50.</note> 
+                  <hi>who ſoever ſhal doe the will of his father which is in heave<g ref="char:cmbAbbrStroke">̄</g>, the ſame is his brother his ſiſter &amp; mother:</hi> therefore the Church of Rome to little purpoſe applyes the latter part of this Pſalme con<g ref="char:EOLhyphen"/>cerning the Kings daughter &amp; her honourable women to their <note n="g" place="margin">Mollerus in loc.</note> Nunnes at their conſecration, ſin<g ref="char:EOLhyphen"/>ce it belongs to men as wel as wo<g ref="char:EOLhyphen"/>men to the maried as the unmar<g ref="char:EOLunhyphen"/>ried even to the whole Church of what nation, ſexe or condition ſoever they be: but the prophet in alluſion to Solomons Queene heere termes them daughters; who in other places are called the <note n="h" place="margin">Matt. 5. 9. Rom. 5. 2. 8. 14.</note> 
+                  <hi>ſonnes of God.</hi>
+               </p>
+               <pb n="16" facs="tcp:25871:12"/>
+               <p> Jeſus Chriſt as God is the only <note n="i" place="margin">Heb. 1. 2.</note> ſonne of God by natural genera<g ref="char:EOLhyphen"/>tion, as man, the only ſonne of God by <note n="k" place="margin">Luk. 1. 35.</note> perſonal union, the <note n="l" place="margin">Iob. 38 7</note> An<g ref="char:EOLhyphen"/>gels, <note n="m" place="margin">Luk. 3. 38. Gen. 1. 26.</note> Adam &amp; Eve &amp; in them all men &amp; women are the ſonnes of God by creation after Gods image in righteouſneſſe &amp; holineſſe, but men being in honour through their fall in Adam loſt this image &amp; honourable condition of being the ſonnes of God, &amp; are now <hi>by nature the</hi> 
+                  <note n="n" place="margin">Eph. 2. 3.</note> 
+                  <hi>children of vvrath,</hi> &amp; ſonnes of iniquitye: but God out of his love to man ſent his owne ſonne <note n="o" place="margin">Heb. 1. 3.</note> 
+                  <hi>(vvho is the expreſſe image of his perſon)</hi> to be man, to reſtore man to the image of God in being the ſonnes of God, for <note n="p" place="margin">Ioh. 1. 12.</note> 
+                  <hi>to as ma<g ref="char:EOLhyphen"/>ny as received him to them he gave this honour to bee the ſonnes of God, even to them that beleeve in his name</hi> &amp; ſo the faithfull only are reſto<g ref="char:EOLhyphen"/>red to this honourable eſtate of
+<pb n="17" facs="tcp:25871:12"/> being ſonnes &amp; daughters to the King of heaven, for <note n="q" place="margin">Gal. 3. 26.</note> wee <hi>are all the ſonnes of God by faith in Jeſus Chriſt.</hi>
+               </p>
+               <p>The Church then is the Kings daughter in law by the grace of adoption in a ſpiritual union by fayth being married to the Kings ſonne.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vſe </seg>1</label> When Sauls ſervants com<g ref="char:EOLhyphen"/>muned with David to take in marriage the Kings daughter, David anſwers <note n="r" place="margin">1. Sa. 18. 23.</note> 
+                  <hi>Seemeth it a light thinge to bee a Kings ſonne in law:</hi> but I may ſay, ſeemeth it a light thing to bee the King of Kings daughter in law: It was a great honour wherewith God magni<g ref="char:EOLhyphen"/>fied the bleſſed Virgin to be the <note place="margin">foeliciꝰ eum corde quam carne geſta<g ref="char:EOLhyphen"/>vit. Aug. de S. Virg. c. 3.</note> mother of a King, of God, but a greater happineſſe to her that ſhe was a daughter of the King her God: Is it a great honour to bee borne of earthly Kings, &amp; not
+<pb n="18" facs="tcp:25871:13"/> a greater to be borne of a heaven<g ref="char:EOLhyphen"/>ly King? If all worldly honours of Kingly Parentage, Kingly mar<g ref="char:EOLhyphen"/>riage, Kingly magnificene, allian<g ref="char:EOLhyphen"/>ce, beauty, wit, eloquence, cou<g ref="char:EOLhyphen"/>rage, or what ſoever elſe may be of higher eſteeme added heereto, be layed all together in balance with this only honour to be the Kings daughter, they wilbe foun<g ref="char:EOLhyphen"/>de too light even lighter then va<g ref="char:EOLhyphen"/>nitye, in reſpect of this ſpiritual dignity; this is that crownes all the reſt, &amp; let us ſo eſteeme of it as the beſt flower in our garland.</p>
+               <p>Ceaſe then, ceaſe blind, old, doting world to judge them the ofſcowring of the world who are the happieſt people therein, and though thou naturall man per<g ref="char:EOLhyphen"/>ceive not the things of God, yet the time ſhall come when in an<g ref="char:EOLhyphen"/>guiſhe of heart thou ſhalt ſay <note n="ſ" place="margin">VViſd 5.</note> 
+                  <hi>this is he whom we had ſometime in deri<g ref="char:EOLhyphen"/>ſion,
+<pb n="19" facs="tcp:25871:13"/> wee fooles, accounted his life madneſſe &amp; his end to be without ho<g ref="char:EOLhyphen"/>nour, how is he now numbred among the children of God &amp; his lot among the ſaints.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>2</label> And as this makes, for the Churches honour ſo it affoordes her comfort; for is ſhe the Kings daughter, ſhe ſhal then never want any thinge that is fitting or good for her. A good Kings care is to provide for all his ſubjects much more for his owne chil<g ref="char:EOLhyphen"/>dren: God cauſes his ſunne to ſhine on the wicked but the hot<g ref="char:EOLhyphen"/>teſt beames of his favour ſhal re<g ref="char:EOLhyphen"/>flect on the righteous: this King that hath ſo much loved us when we were his enemies as to give his owne Sonne to be married to us, how ſhall he not with him give us all thinges being reconciled &amp; made his daughters: Kings on earth may want power &amp; cannot
+<pb n="20" facs="tcp:25871:14"/> helpe, may want love &amp; will not helpe, may want life for they are mortal, &amp; though they have both power &amp; will yet helpe not, <hi>put not then your truſt in princes ſayth the</hi> 
+                  <note n="t" place="margin">Pſ. 146. 3.</note> 
+                  <hi>Pſalmiſt nor in the ſonne of man in whom is no helpe, his breath goeth forth he returneth to his earth &amp; in that day his thoughts periſh;</hi> but the Kings daughters helpe is in the name of the Lord who hath ma<g ref="char:EOLhyphen"/>de heaven &amp; earth; hee is the King of Kings &amp; can helpe, a loving fa<g ref="char:EOLhyphen"/>ther &amp; will helpe, an eternall King &amp; the living God, &amp; can at all times when he ſees fitting, hel<g ref="char:EOLhyphen"/>pe; <hi>when</hi> 
+                  <note n="u" place="margin">Pſal. 27. 10</note> 
+                  <hi>father &amp; mother forſake then the Lord taketh us up, &amp; though Abraham be ignorant of us &amp; Iſraell acknow ledge us not yet thou art our</hi> 
+                  <note n="w" place="margin">Iſa. 63. 16.</note> 
+                  <hi>father our redeemer, thy name is from everlaſting.</hi> The King may indeed ſuffer his daughter ſome<g ref="char:EOLhyphen"/>times to be troubled, like the
+<pb n="21" facs="tcp:25871:14"/> woman in the <note n="x" place="margin">Rev. 12. 14</note> Revelation for<g ref="char:EOLhyphen"/>ced by the Dragon <hi>to fly into the wilderneſſe, but even there, where little hope of feod is ſhe ſhalbe nouri<g ref="char:EOLhyphen"/>ſhed, &amp; finde a place from the face of the ſerpent;</hi> but if ſhe ſhould find none there, yet <hi>in</hi> 
+                  <note n="y" place="margin">Ioh. 14. 2.</note> 
+                  <hi>her fathers houſe are many manſions,</hi> &amp; the Kings ſonne her husband is gone before to provide a place for her. The Churh may want ſometimes what ſhe deſires but never what God knowes good, &amp; though the King denye his daughter one thinge, he may give her a better; And though ſhe be a Queene married to the Kings ſonne, it is fitting ſhe acknowledge her fa<g ref="char:EOLhyphen"/>ther, &amp; the King may ſuffer her to want becauſe he would have her come to him, for he is the King &amp; wilbe ſought to &amp; great reaſon he ſhould, Becauſe ſhe is the Kings
+<pb n="22" facs="tcp:25871:15"/> daughter ſhe Lookes the King ſhould looke after her &amp; ſo ſets ſtill &amp; does not ſtirre up her ſelfe to take hold of the King, nor call upon him with that humility, fayth, fervency &amp; conſtancy ſhe ought to doe; which if ſhe would doe, &amp; ſo diſpatch her prayers as extraordinary Embaſſadours to the King of heaven, ſhe ſhould receive a gracious anſwere <note n="z" place="margin">Iſa. 54. 11.</note> 
+                  <hi>oh thou afflicted, toſſed with tempeſt &amp; not comforted, the Lord</hi> 
+                  <note n="a" place="margin">6.</note> 
+                  <hi>hath called thee à woman forſaken &amp; grieved in ſpirit, for a moment have I forſaken thee, but with great mercies will I gather thee, in a little wrath I hid my face from thee, but with everlaſting kindneſſe will I have mercy on thee:</hi> Let the Church then with Quee<g ref="char:EOLhyphen"/>ne Heſter goe in to the King, he will hold out the ſcepter of his grace, &amp; the deviſes of wicked Hamans ſhalbe brought on their
+<pb n="23" facs="tcp:25871:15"/> owne heads <note n="b" place="margin">Pſ. 122. 6.</note> 
+                  <hi>Pray then for the pea<g ref="char:EOLhyphen"/>ce of Ieruſalem</hi> (for ſhe is the Kings daughter) <hi>they ſhall proſper that lo<g ref="char:EOLhyphen"/>ve thee, Peace bee within thy walls &amp; proſperity within thy palaces;</hi> 
+                  <note n="c" place="margin">Iſa. 63. 19.</note> 
+                  <hi>Looke downe from heaven wee beſeech thee O King of heaven behold from the ha<g ref="char:EOLhyphen"/>bitation of thy holyneſſe &amp; of thy glo<g ref="char:EOLhyphen"/>ry,</hi> &amp; for the glory of thy name ſuffer not men on earth to doe thee this diſhonour to abuſe thy daughter; <hi>where is thy Zeale &amp; thy ſtrength, the ſounding of thy bowels &amp; of thy mercies are they reſtrayned</hi> O thou who haſt the hearts of Kings in thy hands, put into the hearts of the Kings of the earth to hate the whore that is drunck with the blood of thy ſaints.</p>
+               <p>Ariſe o Lord God of our ſalvati<g ref="char:EOLhyphen"/>on, ſmite thine enemies in the hinder parts &amp; put them to per<g ref="char:EOLhyphen"/>petual reproach. <hi>Oh</hi> 
+                  <note n="d" place="margin">64 9.</note> 
+                  <hi>remember not our iniquities for ever neyther</hi>
+                  <pb n="24" facs="tcp:25871:16"/> 
+                  <hi>he wroth very ſore, behold, ſee we beſeech thee we are thy people.</hi> &amp; thus much for the Queenes comfort</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vſe </seg>3</label> Thirdly this alſo teaches the Church her duty, for is ſhee the Kings daughter let her then be<g ref="char:EOLhyphen"/>have her ſelfe like a daughter to ſo great a King &amp; <hi>ſhew forth in her converſation the</hi> 
+                  <note n="e" place="margin">1. Pet. 2. 9.</note> 
+                  <hi>vertues of him that hath called her out of darkneſſe into his marveilous light</hi> &amp; walke as a child of light, be holy as the King is holy, be mercifull as her heavenly father is mercifull, ab<g ref="char:EOLhyphen"/>horre ſinne as a baſe thinge &amp; ſinfull wicked perſons as unwor<g ref="char:EOLhyphen"/>thy the company &amp; countenan<g ref="char:EOLhyphen"/>ce of the Kings daughter. <note place="margin">Pſa. 101. 7.</note>
+               </p>
+               <p>
+                  <hi>It is an abhomination to Kings to commit wickedneſſe,</hi> 
+                  <note n="f" place="margin">Prov. 16. 12</note> ſayth Solo<g ref="char:EOLunhyphen"/>mon, ſo is it alſo to Kings ſon<g ref="char:EOLhyphen"/>nes &amp; daughters, who as they are above others in ſtate, ſo they
+<pb n="25" facs="tcp:25871:16"/> ſhould be higher in their ver<g ref="char:EOLhyphen"/>tuous behaviour as King Saul <note n="g" place="margin">1. Sam. 10. 23.</note> higher by the head &amp; ſhoulders then the reſt of the people.</p>
+               <p>
+                  <note n="h" place="margin">v. 9.</note> When Samuel had annoyuted Saul King it is ſayd that God gave him another heart, a heart befit<g ref="char:EOLhyphen"/>ting a King, &amp; to great perſons God gives heroick ſpirits to doe great thinges, but to his owne children he gives his owne ſpirit, ſo there is another ſpirit in them then in the world, for as <note n="i" place="margin">Rom. 8. 14.</note> many as <hi>are led by the ſpirit of God, are the ſon<g ref="char:EOLhyphen"/>nes of God, now the fruit of</hi> 
+                  <note n="k" place="margin">Gal. 5. 22.</note> the ſpi<g ref="char:EOLhyphen"/>rit is love, joy, peace, long ſuffering gentleneſſe, fayth, meekeneſſe, tem<g ref="char:EOLunhyphen"/>perance: Bet ye there fore followers of God as deare children, &amp; walke in Love as God hath loved us, but <note n="l" place="margin">Ephc. 5. 1.</note> 
+                  <hi>all uncleaneſſe or covetouſueſſe, let it not be once named among you as becommeth Saints,</hi> or the Kings
+<pb n="26" facs="tcp:25871:17"/> daughters. Thus farre of the re<g ref="char:EOLhyphen"/>lation, the Kings daughter.</p>
+            </div>
+            <div type="part">
+               <head>Glorious.</head>
+               <p>SEcondly, is to bee conſidered her qualification, ſhe is glo<g ref="char:EOLhyphen"/>rious.</p>
+               <p>Glorious in being gracious.</p>
+               <p>Firſt becauſe grace is true glo<g ref="char:EOLhyphen"/>ry, &amp; therefore the ſaints are cal<g ref="char:EOLhyphen"/>led the <note n="m" place="margin">Pſa. 16. 3.</note> 
+                  <hi>excellent</hi> ones upon earth &amp; by the prophet <note n="n" place="margin">Iſa. 4. 5.</note> Iſaiah <hi>the glory</hi>
+               </p>
+               <p>2. Ly becauſe her graces are as ſo many tokens of Gods grace &amp; lo<g ref="char:EOLhyphen"/>ve to her in which ſhe glories, for <hi>let</hi> 
+                  <note n="o" place="margin">1 Cor. 1. 31</note> 
+                  <hi>him that gloryes glory in the Lord;</hi> a wife glories in ſhewing others her rings, jewels, &amp; coſtly apparrel, not only for the value of the thinges, but alſo for that her husband gave them, which ſhe thereforealſo eſteemes of &amp; will keepe as evidences of her husbands love.</p>
+               <pb n="27" facs="tcp:25871:17"/>
+               <p> 3. Ly, becauſe her graces are the way to eternal glory, for <note n="p" place="margin">Heb. 12.</note> 
+                  <hi>without holyneſſe no man ſhall ſee the Lord.</hi>
+               </p>
+               <p>The Church is glorious in that ſhe is the Kings daughter by her ſpirituall adoption, but glorious alſo in her juſtification &amp; her ſanc<g ref="char:EOLunhyphen"/>tification. The <note n="q" place="margin">Ioh. 8. non generis dignitate, ſed morum nobilitate jnnoteſcere debemus. diſt. 40 c. 3. ex Greg. qui genus ſuum jactat, aliena lau<g ref="char:EOLhyphen"/>dat. ſen. H. F. In <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> p. 80. impreſ. Ha. noviae.</note> Jewes gloryed that they were Abrahams chil<g ref="char:EOLunhyphen"/>dren yet did not the workes of Abraham: and many glory in their noble birth, who are inglo<g ref="char:EOLhyphen"/>rious in a wicked life, their birth cannot affoord them ſo much glory, as their life begets diſgrace; the glory of their birth is ano<g ref="char:EOLhyphen"/>thers prayſe, but their graceleſſe life is their owne ſhame. It is true that our late King of bleſſed memory relates, that for the moſt part a vertuous (civill &amp; morall) life followes a noble birth, &amp; wee ſee many times that none are ſo baſe &amp; rude in their
+<pb n="28" facs="tcp:25871:18"/> carriage as ſuch of meane &amp; rude parentage: But it is true that S. Paul <note n="r" place="margin">1. Cor. 1. 26</note> ſayes that <hi>not many wiſemen after the fleſh nor many mighty, nor many noble are called, for God hath choſen the fooliſh thinges of the world to confound the wiſe, &amp; the weake things to confound the mighty; &amp; ba<g ref="char:EOLhyphen"/>ſe things of this world, that no fleſh ſhould glory in his preſence:</hi> but ſuch as are glorious in the fleſh by a noble birth, being called by God are farr more glorious in their new birth &amp; gracious ſpirituall life; there may bee then a natural noble birth, but an ignoble life, but whoſoever is truly ennobled with the glory of a ſpiritual birth, is alſo glorious in a gracious life.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vſe </seg>1</label> Whereby, examination may be had who is the Kings daugh<g ref="char:EOLhyphen"/>ter: Juſtification &amp; ſanctification are evident ſignes &amp; fruits of our adoption, If a man gloryes he
+<pb n="29" facs="tcp:25871:18"/> hath the Philoſophers ſtone, yet goes in raggs, wee will not eaſily beleeve him, neyther him that ſayes he is the child of God &amp; li<g ref="char:EOLhyphen"/>ves in ſinne, <hi>for hee that</hi> 
+                  <note n="ſ" place="margin">1. Ioh. 3. 9. 10.</note> 
+                  <hi>is borne of God ſinneth not,</hi> (not willingly going on in a ſinfull courſe with<g ref="char:EOLhyphen"/>out repentance) &amp; <hi>in this the chil<g ref="char:EOLhyphen"/>dren of God are manifeſt &amp; the chil<g ref="char:EOLhyphen"/>dren of the divel, who ſoever doth not righteouſneſſe is not of God.</hi> 
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>2</label> And from hence alſo we may <note place="margin">Fax mentis honeſtae glo<g ref="char:EOLhyphen"/>ria S. Ital. Phil. 3.</note> bee exhorted to ſeeke for this the trueſt glory. Some glory in their ſinnes, <hi>whoſe glory is in their ſhame</hi> ſome glory in their riches &amp; worldly honours, but this world paſſeth away &amp; the glory of it, ſo<g ref="char:EOLhyphen"/>me glory in their fine cloathes, but all this is vayne glory, &amp; too often keepes man from attayning true glory; <hi>how can ye beleeve ſayth Chriſt</hi> 
+                  <note n="t" place="margin">Ioh. 5. 44.</note> 
+                  <hi>that receive honour one of another &amp; ſeeke not the honour</hi>
+                  <pb n="30" facs="tcp:25871:19"/> 
+                  <hi>that cometh from God only,</hi> whoſe hearts &amp; time is taken up wholy in an ambitious affecting honour from men, can ſpare no time to ſeeke after the true honour from God, they that too much love the prayſe of men, too little care for the prayſe of God; Bad people <note place="margin">Nullaru<g ref="char:cmbAbbrStroke">̄</g> fere pretioſior cultus eſt, quam quaru<g ref="char:cmbAbbrStroke">̄</g> pudor vilis eſt. Cyp. de hab. virg.</note> may weare good cloathes, &amp; baſe minded men ſtep up to worldly honour &amp; glory, but the Kings daughter only is truly glorious in being gratious. Let that argu<g ref="char:EOLhyphen"/>ment moove us which comonly preveyles every where, &amp; that is the faſhion <hi>Let your</hi> 
+                  <note n="u" place="margin">1. Pet. 3. 4.</note> 
+                  <hi>adorning then be in the hidden man of the heart in that which is not corruptible, even the ornament of an humble, meeke, &amp; quiet ſpirit which is in the ſight of God great of price,</hi> put on by the hand of fayth the <hi>fine</hi> 
+                  <note n="w" place="margin">Rev. 19. 8.</note> 
+                  <hi>linnen which is the righteouſneſſe of the ſaints,</hi> cover your heads with the feare of God
+<pb n="31" facs="tcp:25871:19"/> hang at your eares, wind about your wreſts, I meane your hearts the precious jewell of Gods word more <note n="x" place="margin">Pſa. 19. 10.</note> worth then thouſands of gold ſilver &amp; choiſeſt pearles, girt about your loynes <hi>the</hi> 
+                  <note n="y" place="margin">Eph. 6. 14.</note> 
+                  <hi>girdle of truth,</hi> ſhoo your <note n="z" place="margin">v. 15.</note> feet <hi>with the pre<g ref="char:EOLhyphen"/>paration of the Goſpell of peace,</hi> waſh hands &amp; face I meane your ſoules in the blood of Chriſt, for be they never ſo high coloured, <hi>were your ſinnes as</hi> 
+                  <note n="a" place="margin">Iſai. 1. 18.</note> 
+                  <hi>red as ſcarlet they ſhalbe as white as ſnow,</hi> For this is the Kings daughters cloathing of wrought gold, this her rayment of needle worke, this is the Quee<g ref="char:EOLhyphen"/>nes faſhion, ſhe will never chan<g ref="char:EOLhyphen"/>ge it, but live &amp; dye in it, &amp; I pray God give us all grace to follow it, &amp; then ſhall the King have plea<g ref="char:EOLhyphen"/>ſure in our beauty, And when the glory of al earthly Kings &amp; kingdomes ſhall ceaſe &amp; be bro<g ref="char:EOLhyphen"/>ught to nothing, then ſhall the
+<pb n="32" facs="tcp:25871:20"/> Kings daughter appeare in her glory, for <hi>we are</hi> 
+                  <note n="b" place="margin">1. Ioh. 1. 18.</note> 
+                  <hi>now the ſonnes of God, but it doeth not yet appeare what we ſhalbe, but we know that when the King our husband Jeſus Chriſt our ſaviour ſhall appeare with all the glory of heaven &amp; earth that we ſhalbe like him &amp;</hi> 
+                  <note n="c" place="margin">Col. 3. 4. Rev. 21. 2.</note> 
+                  <hi>appeare with him in glory, thus prepared as a bride adorned for her husband,</hi> cloathed with the glory of God in a king<g ref="char:EOLhyphen"/>dom of glory, crowned with an incorruptible crowne of glory, to which let us <note n="d" place="margin">Rom. 8. 18.</note> account all the momentary light afflictions of this world not worthy to be com<g ref="char:EOLunhyphen"/>pared, but go on from grace to grace from glory to glory <note n="e" place="margin">5. 2.</note> 
+                  <hi>rejoy<g ref="char:EOLhyphen"/>cing in the hope of the glory of God.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Allglorious.</head>
+               <p>THe third thinge to be conſi<g ref="char:EOLhyphen"/>dered, is the amplification of this glory: &amp; Firſt by the
+<pb n="34" facs="tcp:25871:20"/> univerſalitie of it, <hi>all glorious.</hi>
+               </p>
+               <p>Firſt by the grace of juſtifica<g ref="char:EOLhyphen"/>tion for <hi>Chriſts blood cleanſeth her from</hi> 
+                  <note n="f" place="margin">1. Ioh. 1. 7.</note> 
+                  <hi>all her ſinnes,</hi> &amp; ſo God ſeeth no iniquitye, becauſe he does not <note n="g" place="margin">Pſa. 32.</note> impute it to her, her iniquities are forgiven, her ſinnes covered, &amp; the abſolute perfect righteouſ<g ref="char:EOLhyphen"/>neſſe of Jeſus Chriſt is <note n="h" place="margin">Rom. 4.</note> to her, &amp; in this reſpect Chriſt ſayes of her <hi>thou art</hi> 
+                  <note n="i" place="margin">Cant. 4. 7.</note> 
+                  <hi>all faire my Love &amp; there is no ſpot in thee.</hi>
+               </p>
+               <p>Secondly, by the graces of ſan<g ref="char:EOLhyphen"/>ctification, wherewith her who<g ref="char:EOLhyphen"/>le perſon in all the faculties of her ſoule, &amp; members of her body, is adorned, her underſtanding en<g ref="char:EOLhyphen"/>lightned with ſaving knowledge, ſo that with <hi>open</hi> 
+                  <note n="k" place="margin">2. Cor. 3. 18</note> 
+                  <hi>face ſhe beholds the glory of God &amp; is changed into the ſame image from glory to glory,</hi> her will being conformed to Gods will, her affections rightly orde<g ref="char:EOLhyphen"/>red, her love, feare, joy, &amp; hope ſet
+<pb n="35" facs="tcp:25871:21"/> on other objects, contayned wi<g ref="char:EOLhyphen"/>thin the limits of due moderati<g ref="char:EOLhyphen"/>on, her outward ſenſes &amp; mem<g ref="char:EOLhyphen"/>bers of her body <note n="l" place="margin">Rom. 6. 13</note> inſtruments of righteouſneſſe unto God, &amp; in this reſpect alſo all glorious: For as by ſinne the whole perſon is corrupted, ſo by grace the whole perſon, even in <note n="m" place="margin">1. Th. 5. 23.</note> ſoule, ſpirit, &amp; body, is ſanctified; the old man is caſt of with his workes &amp; beg<g ref="char:EOLhyphen"/>gerly rags, &amp; the new man is put on, which after God is created in righteouſneſſe &amp; true holyneſſe; <hi>he hath reſpect to</hi> 
+                  <note n="n" place="margin">Pſ. 119. 6. 3.</note> 
+                  <hi>all Gods comman<g ref="char:EOLhyphen"/>dements &amp; does no iniquitye</hi> &amp; though in this life the Kings daughter be not ſo glorious, as to bee perfectly ſanctified in full me<g ref="char:EOLunhyphen"/>aſure through the reliques of ſin<g ref="char:EOLhyphen"/>ne in her, though forgiven, yet is ſhe in ſome meaſure ſanctified in <note place="margin">perfectio graduum &amp; partium.</note> all the faculties of ſoule &amp; mem<g ref="char:EOLhyphen"/>bers of her body, &amp; ſo perfectly
+<pb n="36" facs="tcp:25871:21"/> ſanctified, &amp; in this ſenſe I dare affirme univerſalitie of grace; for where the fleſh is, there is the ſpi<g ref="char:EOLhyphen"/>rit alſo, &amp; this ſpirit of ſanctifica<g ref="char:EOLhyphen"/>tion ſtriveth againſt corruption; thus though ſhe <hi>bee black yet is ſhe</hi> 
+                  <note n="o" place="margin">Cant. 1. 5.</note> 
+                  <hi>comely,</hi> but heere after when the body of ſinne ſhalbe deſtroyed, &amp; all teares wiped from her eyes ſhe ſhalbe <hi>all</hi> 
+                  <note n="p" place="margin">Eph. 5. 27.</note> 
+                  <hi>glorious without any ſpot or wrinckle, holy without ble<g ref="char:EOLhyphen"/>miſh.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vſe. </seg>1</label> By the conſideration whereof we may diſcerne true grace from counterfeit. Herod will heare John gladly &amp; doe many glorious good things, but he will not part with Herodias, &amp; this blemiſhes ye reſt, &amp; diſcovers him to be of baſe Idumaea<g ref="char:cmbAbbrStroke">̄</g> birth, &amp; no true Iſraelite: many glory of their good inten<g ref="char:EOLhyphen"/>tions, &amp; that they meane as wel as the beſt, yet their mouths are full of rotten co<g ref="char:cmbAbbrStroke">̄</g>munication, &amp; ſo we
+<pb n="37" facs="tcp:25871:22"/> may know the tree by the fruit to be of no good kind: others, glory of their good deeds, but their thoughts are free, their he<g ref="char:EOLhyphen"/>arts full of uncleaneſſe, malice, &amp; covet ouſneſſe. It is ordinary with many, in much vehemency to in<g ref="char:EOLhyphen"/>veigh againſt, &amp; to handle rough<g ref="char:EOLhyphen"/>ly the ſinne, they are not ſubject to, but their beloved ſinne muſt not be touched, they are as ten<g ref="char:EOLhyphen"/>der of it as a King of his prerogati<g ref="char:EOLhyphen"/>ve, whoſo touches it hurts it; the chiefe Prieſts &amp; Phariſes will not <note n="q" place="margin">Ioh. 18. 28.</note> enter the common hall leſt they be defiled, behold their conſcien<g ref="char:EOLhyphen"/>ce; but ſcruple not to defile their Soules in ſhedding innocent blood, behold their baſeneſſe. <hi>they tythe alſo</hi> 
+                  <note n="r" place="margin">Matt. 23. 23</note> 
+                  <hi>eummin &amp; mint, but neglect judgment, mercy &amp; faith, the greater things of the Law:</hi> but the Kings daughter is more generous ſhe is all glorious, in hating all
+<pb n="38" facs="tcp:25871:22"/> ſinne, &amp; willing to all good <hi>how beautiful are thy feet O princes daugh<g ref="char:EOLunhyphen"/>ter,</hi> if therefore thou art not all glorious thou art not truly glo<g ref="char:EOLhyphen"/>rious, if there be not grace in eve<g ref="char:EOLhyphen"/>ry part, no true grace in any part, no true friend of Chriſts that does not (in his willing &amp; ready endea<g ref="char:EOLhyphen"/>vours) what ſoever he comman<g ref="char:EOLhyphen"/>deth, neither doth he truly hate <note place="margin">Ioh. 15. 14.</note> any one ſinne that hates not every ſinne, nor his obedience ſound in any good he does, that is not willing to every good, for this univerſality of obedience is true graces evidence. It is an honou<g ref="char:EOLhyphen"/>rable <note place="margin">qu'il aime<g ref="char:EOLhyphen"/>roit mieux mourir que faire une meſchant acte. S. du Haillan p. 987.</note> report that Hiſtory gives of the French King that he often ſayd, he had rather dye, then doe any wicked thing.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vſe. </seg>2</label> Let us then as many as would ſeeme to bee, or rather have the comfortable aſſurance to be the children of God, <hi>cleanſe our ſelves</hi>
+                  <pb n="39" facs="tcp:25871:23"/> 
+                  <hi>from all filthineſſe both of fleſh &amp;</hi> 
+                  <note n="ſ" place="margin">2. Cor. 7. 1.</note> 
+                  <hi>ſpirit, &amp; perfect our holineſſe in the feare of God.</hi> A little leaven, lea<g ref="char:EOLhyphen"/>vens the whole lumpe, a ſparke of fire may burne a whole Tow<g ref="char:EOLhyphen"/>ne, one flye corrupt a whole boxe of precious oyntment, one ſpot blemiſh a faire picture, &amp; one ſinne given way too blemiſh the Soules glory. Men are care<g ref="char:EOLhyphen"/>full to have their apparrel ſuta<g ref="char:EOLhyphen"/>ble, (for it is ridiculous to ſee one cloathed in velvet breeches &amp; a canvas doublet) let it be our ca<g ref="char:EOLhyphen"/>re to ſute our Soules with the va<g ref="char:EOLhyphen"/>riety of heavenly graces, not to plough with an Oxe &amp; an Aſſe, to ſerve God &amp; Baal, to hold with the hare &amp; run with the hounds for if it be glorious to be good in ſome thinges, it is more glo<g ref="char:EOLhyphen"/>rious to be good in all thinges: <hi>he that is</hi> 
+                  <note n="t" place="margin">Rev. 22. 11.</note> 
+                  <hi>filthy let him be filthy ſtill</hi> the dog will to his vomit &amp; the
+<pb n="40" facs="tcp:25871:23"/> ſwine to the mire; but he that is righteous let him be righteous ſtill, &amp; he that is holy let him be holy ſtill, behold the King, the bridegroome comes quickly, &amp; his reward is with him to give every man according to his wor<g ref="char:EOLhyphen"/>kes: hold faſt what thou haſt that none take thy <note n="u" place="margin">Rev. 3. 11.</note> crown from thee, &amp; goe on with undaunted courage &amp; ſetled reſolution in the all glorious pathes of grace, &amp; the Lord bee with thee, his grace wilbe ſufficient for thee till thou come to thy race end &amp; be with the Lord: &amp; he that hath <hi>bleſſed the with</hi> 
+                  <note n="w" place="margin">Eph. 1. 3.</note> 
+                  <hi>all ſpiritual bleſsings in heavenly things in Chriſt</hi> heere, will bleſſe thee with all eternall bleſſings in heavenly places with Chriſt heereafter; thus ſhalbe done to the man whom the King wil honour.</p>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:25871:24"/>
+               <head>VVithin.</head>
+               <p>SEcondly, this glory is amplified by the ſinceritie of it. <hi>VVithin</hi> Not outward (ſay ſome) as the glory of earthly Kings &amp; Quee<g ref="char:EOLhyphen"/>nes in riches, worldly honours, &amp; other outward pompe, tempo<g ref="char:EOLhyphen"/>ral magnificence, for this is the whores dreſſing <hi>in purple &amp; ſcar<g ref="char:EOLhyphen"/>let</hi> 
+                  <note n="x" place="margin">Rev. 17. 4.</note> 
+                  <hi>decked with gold &amp; pretious ſto<g ref="char:EOLhyphen"/>nes,</hi> but the Churches glory is in<g ref="char:EOLhyphen"/>ward in the purity of doctrine, right adminiſtration of the Sacra<g ref="char:EOLhyphen"/>ments, &amp; Eccleſiaſtical diſcipline, &amp; the ſpiritual ornament of hea<g ref="char:EOLhyphen"/>venly graces, which glory is be<g ref="char:EOLhyphen"/>fitting the Church as daughter &amp; ſpouſe to ſuch Kings as have no carnal eyes to looke on &amp; love her for any outward reſpects though never ſo glorious. True; the Churches beſt glory is in<g ref="char:EOLhyphen"/>ward, &amp; that is her only beauty
+<pb n="42" facs="tcp:25871:24"/> for which the King Loves her &amp; delights in her; ſhe is more glo<g ref="char:EOLhyphen"/>rious in her <hi>golden Prieſts then gol<g ref="char:EOLhyphen"/>den cups,</hi> in being rich in fayth &amp; good works then rich in the world; but the outward glory is not to be neglected when it plea<g ref="char:EOLhyphen"/>ſes God to give it, only we are to be cautionate that the outward doe not allure our eyes &amp; take up our hearts more then the in ward. She that hath the outward only without the inward is the who<g ref="char:EOLhyphen"/>re. She that hath the inward, without the outward is the Kings daughter &amp; a true Church, but where is both inward &amp; outward it is an addition to that Churches glory. The poverty &amp; from then<g ref="char:EOLhyphen"/>ce the contempt &amp; from thence the confuſion &amp; miſerable diſor<g ref="char:EOLhyphen"/>der of ſome Churches, where like Jeroboams prieſts the mea<g ref="char:EOLhyphen"/>neſt of the people even hoſpitall
+<pb n="43" facs="tcp:25871:25"/> children (for the moſt part,) are made Paſtours, (which is not a nations glory but ſhame in ſo contemptible (though it ſhould not be a miniſtery) may cauſe us to bleſſe God for his mer<g ref="char:EOLhyphen"/>cyes to our Engliſh Church both in her inward &amp; outward glory. The voyce might have bin as truely uttered, that poyſon was poured into the Church, when the livings were taken away, as when great revenues given, ſhe had once too much, now in ma<g ref="char:EOLhyphen"/>ny places too little: I have often Wondered at the moſt groſſe &amp; almoſt heatheniſh, co<g ref="char:cmbAbbrStroke">̄</g>mon, igno<g ref="char:EOLhyphen"/>rance, &amp; from thence propha<g ref="char:EOLhyphen"/>neſſe of ſome poople; which I conceived to proceede through want of able Preachers, which proceeds through want of ſuffi<g ref="char:EOLhyphen"/>cient maintenance, which makes ſo many weavers &amp; Taylours to
+<pb n="44" facs="tcp:25871:25"/> become <note n="y" place="margin">That can<g ref="char:EOLhyphen"/>not ſpeake Latin</note> 
+                  <hi>Dutch Clearkes</hi> (as they ſay) in their Churches; &amp; I am ſure this is a deformity, not a glo<g ref="char:EOLhyphen"/>ry, in reformed Churches.</p>
+               <p>But I thinke by the Churches glory, <hi>VVithin,</hi> to be meant the ſincerity of her glory: She is glo<g ref="char:EOLhyphen"/>rious becauſe gracious (as I have already ſhewed) which is her ſpi<g ref="char:EOLhyphen"/>ritual glory, but this glory is not in outward ſhewes &amp; oſtentation only before men, which, were hy<g ref="char:EOLunhyphen"/>pocriſy, but in private alſo, which argues the uprightneſſe &amp; ſince<g ref="char:EOLhyphen"/>nity of her heart before God; Solomons Queene not only put on her glorious cloathing of wrought gold, &amp; her coſtly ray<g ref="char:EOLhyphen"/>ment when ſhe came publiquely before the King, or abroad in the view of the people, but within alſo, in private, in her cloſet, or bedchamber when ſhe was alone ſhe wore ſuch glorious cloathing
+<pb n="45" facs="tcp:25871:26"/> as her ordinary, dayly apparrell: ſo the Kings daughter, viz. the Church, is all glorious, viz. gra<g ref="char:EOLhyphen"/>cious, not only in the publique aſſemblies before men, but alſo when ſhe is alone in private, ſhe adornes her Soule with heavenly meditations, ferve<g ref="char:cmbAbbrStroke">̄</g>t prayer, fayth in gods promiſes &amp;c. yea the mo<g ref="char:EOLhyphen"/>re private, the more glad &amp; care<g ref="char:EOLhyphen"/>ful is ſhe in y<hi rend="sup">e</hi> exerciſe of ſpiritual duties, as having more fit oportu<g ref="char:EOLhyphen"/>nity &amp; liberty to decke up her ſou<g ref="char:EOLunhyphen"/>le. What ſhe ſeemes to bee in her life, ſhe is the ſame in her heart, &amp; the ſame at home in private, that <note place="margin">Iſ. 63. 8.</note> ſhe is abroad in publique, <hi>ſhe will not lye,</hi> glorious, yea all glorious without, glorious &amp; all glorious within, goes forth &amp; comes home <hi>(Cato</hi> like <hi>eodem vultu)</hi> with the ſame countenance, the ſame in all places, like her ſelfe glorious. </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vſe. </seg>1</label> Which condemnes the hypo<g ref="char:EOLhyphen"/>criſy of many, making a great
+<pb n="46" facs="tcp:25871:26"/> ſhew of outward devotion, ha<g ref="char:EOLhyphen"/>ving only the outſide of religion, but no true inward affection to goodneſſe, nor private practice of pietie, <note n="z" place="margin">Matt. 7. 5.</note> face-takers as the Syriack termes them, taking only the face of goodneſſe, &amp; that abroad, but put it off in private. The Phari<g ref="char:EOLhyphen"/>ſee is more carefull to waſh his hands before meat, then his heart, the outſide then, the inſide of the cup: he will give <note n="a" place="margin">Matt. 6.</note> almes, faſt, &amp; pray, one would think him right bred &amp; borne of God, but in gi<g ref="char:EOLhyphen"/>ving almes he ſounds a trumpet, in his faſts he disfigures his face, &amp; he prayes, but in the Temple &amp; corners of the ſtreets to be ſeene of men; there is neyther pietie in his prayers, humility in his faſts, or charitie in his almes, but all done for his owne vayne glory, nothing to Gods glory, all done out of love to humane prayſes,
+<pb n="47" facs="tcp:25871:27"/> not of any love to thoſe heavenly graces, &amp; this you may perceive if you follow him home, in pri<g ref="char:EOLhyphen"/>vate hee is another man, does none of theſe, nor thincks of theſe but abroad: like ſome women too carefull &amp; curious to trimme up them ſelves when they goe forth, but none more careleſſe &amp; ſluttiſh when they are at home, or like ſome men, that regard not what courſe &amp; foule linnen they weare next their ſhinne, ſo they have over it a halfe ſhirt of fine linnen to bee ſeene, or to uſe our Saviours compariſon like <note n="b" place="margin">Mat. 23. 27</note> pain<g ref="char:EOLhyphen"/>ted ſepulchres, faire without, rot<g ref="char:EOLhyphen"/>ten within.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vſe. </seg>2</label> But beloved I am perſwaded better thinges of you, &amp; ſuch as accompany ſalvation. It is our duty to be good abroad, &amp; to ſhew our fayth by our good wor<g ref="char:EOLhyphen"/>kes; we have no cauſe to be aſha<g ref="char:EOLhyphen"/>med
+<pb n="48" facs="tcp:25871:27"/> of goodneſſe, it is the Quee<g ref="char:EOLhyphen"/>nes glory, leſt Chriſt be aſhamed of us, our good workes muſt ſhi<g ref="char:EOLhyphen"/>ne before men, that they may glo<g ref="char:EOLhyphen"/>rifie our father in heaven, but let us take heed we doe not good only to bee ſeene of men: Pray, faſt, give almes with other duties of pietie to God &amp; charitie to man in publique with the whole Church, but forget not to doe theſe at home, for remember, the Kings daughter is all glorious wi<g ref="char:EOLhyphen"/>thin, not excluding her glory without, including her glory within, for ſhee is both: &amp; as I ſhewed before, univerſaly glo<g ref="char:EOLhyphen"/>rious in all parts, ſo ſincerely glo<g ref="char:EOLhyphen"/>rious in all places, at all times, but indeed more glorious within then without.</p>
+               <p>When ſhe is abroad, ſhe ſome<g ref="char:EOLhyphen"/>times forbeares to ſhew forth her glory, to avoyd ſuſpicion of
+<pb n="49" facs="tcp:25871:28" rendition="simple:additions"/> vayne glory &amp; hypocriſy, but when ſhe comes home, &amp; enters into her chamber, where none but God ſees her, ſhe unmaskes her face, layes open her beauty &amp; caſts abroad all the brightneſſe of her glory, in powring out her ſoule with more freedome &amp; zeale in her prayers &amp; other glo<g ref="char:EOLhyphen"/>rious good duties, to make ame<g ref="char:cmbAbbrStroke">̄</g>ds for that reſtraynt in publique. <note place="margin">Pſa. 39. 1. 2.</note>
+               </p>
+               <p>The King her father, the King her husband ſees her in ſecret, be<g ref="char:EOLhyphen"/>holds her carriage, heares her prayers &amp; putts her teares in a bottle, will reward her openly &amp; bring forth her righteouſneſſe as the <note n="c" place="margin">Pſ. 37. 6.</note> light; And when all vayne glorious hypocrites relying on their outward devotions, ſhalbe caſt out into outward darkneſſe where is weeping &amp; gnaſhing of teeth, then ſhall the Kings daugh<g ref="char:EOLhyphen"/>ter who is all glorious within, be
+<pb n="50" facs="tcp:25871:28"/> received within the kingdome of glory <hi>&amp;</hi> 
+                  <note n="d" place="margin">Mat. 13. 43</note> 
+                  <hi>ſhine forth as the Sunne in the Kingdome of her father.</hi>
+               </p>
+               <p>Conſider what hath bin ſayd, &amp; the Lord give you underſtan<g ref="char:EOLhyphen"/>ding in all thinges.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
